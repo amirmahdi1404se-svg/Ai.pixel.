@@ -1,7 +1,7 @@
 {
   "appId": "com.pixelforge.studio",
   "appName": "AI Pixel Forge",
-  "webDir": "www",
+  "webDir": ".",
   "android": {
     "allowMixedContent": true,
     "captureInput": true,
